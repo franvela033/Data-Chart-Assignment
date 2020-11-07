@@ -1,0 +1,45 @@
+body {
+    /* The font will be inherited by elements nested within the body tag */
+    font-family:'Playfair Display', serif;
+    background-color: #Green ;
+    margin-left: 27%;
+    margin-right: 27%;
+}
+
+.container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#headline {
+    margin-left: 900px;
+    margin-right: 900px;
+    width: 50em;
+}
+
+img {
+    width: 115%;
+    max-width: 1000px;
+}
+.text{
+  display: block
+  margin-right: 40%;
+  margin-left: 10%;
+}
+.texttwo {
+  display: block
+  margin-right: 40%;
+  margin-left: 10%;
+}
+.list {
+  display: block
+  margin-right: 40%;
+  margin-left: 10%;
+}
+h6 {
+  display: block
+  margin-right: 40%;
+  margin-left: 10%;
+}
+div.background-text-box {}
